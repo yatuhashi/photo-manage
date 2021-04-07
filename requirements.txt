@@ -9,7 +9,7 @@ Twisted-Core==13.2.0
 Twisted-Web==13.2.0
 adium-theme-ubuntu==0.3.4
 altgraph==0.10.2
-ansible==1.8.1
+ansible==2.10.0
 apt-xapian-index==0.45
 argparse==1.2.1
 bdist-mpkg==0.5.0
